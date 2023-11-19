@@ -1,0 +1,6 @@
+.env
+node_modules
+demo.js
+dist
+.idea
+.DS_Store
